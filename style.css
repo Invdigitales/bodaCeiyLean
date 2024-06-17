@@ -78,12 +78,13 @@ text-align: center;
 
 .parrafovestimenta{
   font-family: "Open Sans", sans-serif;
-     font-size: 16px;
-     color: #4d4c4c;
-     margin: 8%;
-  text-transform: uppercase;
-  line-height: 180%;
-  font-weight: 600;
+  font-size: 16px;
+  color: #4d4c4c;
+  margin: 8%;
+text-transform: uppercase;
+line-height: 180%;
+font-weight: 600;
+text-align: left;
   margin-top: -10%;
 }
  
@@ -482,7 +483,7 @@ text-align: center;
 .corazon{
   width: 5%;
   margin-top: 10%;
-  margin-left: 50%;
+  margin-left: 49%;
 }
 .parrafolosesperamos{
   font-family: "Open Sans", sans-serif;
